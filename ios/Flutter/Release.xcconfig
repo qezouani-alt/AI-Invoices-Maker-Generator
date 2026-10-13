@@ -1,0 +1,5 @@
+#include? "Pods/Target Support Files/Pods-Runner/Pods-Runner.release.xcconfig"
+#include "Generated.xcconfig"
+// Production AdMob App ID. AdMob.local.xcconfig can override it per environment.
+ADMOB_APP_ID=ca-app-pub-2535194044471316~5327002342
+#include? "AdMob.local.xcconfig"
